@@ -1,0 +1,3 @@
+openldap/certs/*
+openldap/ldap/*
+openldap/slapd/*
